@@ -1,0 +1,104 @@
+1. Editor -> Notepad, nodepad ++ 
+2. IDE (Integrated Development Environment) 
+	Eclipse, intelliJ, bluej, jDeveloper etc 
+	
+Every java file which is created will have the extn 
+as .java 
+
+
+Salary 
+	I'm in Bengaluru, recruited in Bengaluru, 
+		And Working in bengaluru 
+SalaryOnsiteUSA 
+	I'm in Bengaluru,recruited in Bengaluru,  
+		in NewYork 
+SalaryOnsiteUSAClient 
+	I'm in Bengaluru,recruited in Bengaluru,  
+		Apple 
+		
+SalaryOnsiteMiddleEastMicrosoft
+
+
+
+com 
+	onsite 
+		usa 
+			Salary
+		me 
+			Salary
+		europe 
+			Salary
+	offshore
+		karnataka 
+		delhi 
+		tamilnadu 
+	
+
+com.onsite.usa.Salary
+	C:\OnlineTraining\HPE\Workspace
+
+com.onsite.me.Salary
+
+com.onsite.europe.Salary
+
+
+class Employee {} -> blue print 
+
+
+class Employee {
+	empId 
+	empName 		-> attributes / instance variables 
+	empSalary
+	empEmail 
+} 
+
+class Object {}
+class LivingBeing {} 
+class Animal {}
+class Person {}
+class Employee{
+	/// few attributes 
+	
+	// behaviours 
+	work(){}
+	fillTimeSheet(){}
+	assignToProject(){}
+}
+
+
+Employee emp = new Employee(); 
+
+
+
+
+
+Inheritance 
+Polymorhism 
+Encapsulation 
+Abstraction 
+
+
+
+
+for(initialvalue; condition ; inc/ dec ){
+	// bl 
+}
+
+Home work 
+10 
+0  1  1   2   3    5   8   13 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
