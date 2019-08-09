@@ -1,0 +1,18 @@
+package com.hpe.day2;
+
+
+// this class call car has fuelCapacity() + 
+// move and stop (parent) 
+public class Car extends Vehicle{
+	
+	// if you dont have the default constructor then 
+	// the compiler at the compilation time will create 
+	// the constructor for you 
+	public Car() {
+		System.out.println("Car creation in progress... ");
+	}
+	
+	public void fuelCapacity() {
+		System.out.println("Car has Fuel Capacity");
+	}
+}

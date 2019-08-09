@@ -1,0 +1,8 @@
+package com.hpe.day2;
+
+public class PersonApp {
+	public static void main(String[] args) {
+		Person magesh = new Person(); 
+		
+	}
+}

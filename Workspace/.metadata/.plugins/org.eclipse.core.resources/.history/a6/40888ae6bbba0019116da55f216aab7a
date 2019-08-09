@@ -1,0 +1,7 @@
+package com.hpe.day2;
+
+public class VehicleApp {
+	public static void main(String[] args) {
+		
+	}
+}

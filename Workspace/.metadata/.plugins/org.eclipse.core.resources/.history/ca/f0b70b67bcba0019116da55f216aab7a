@@ -1,0 +1,16 @@
+package com.hpe.day2;
+
+
+// this class call car has fuelCapacity() + 
+// move and stop (parent) 
+public class Car extends Vehicle{
+	
+	
+	public Car() {
+		
+	}
+	
+	public void fuelCapacity() {
+		System.out.println("Car has Fuel Capacity");
+	}
+}
