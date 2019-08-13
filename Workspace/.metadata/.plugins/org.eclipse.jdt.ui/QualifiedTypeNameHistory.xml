@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.hpe.day2.Car"/>
+<fullyQualifiedTypeName name="com.hpe.day2.Truck"/>
+<fullyQualifiedTypeName name="com.hpe.day2.Vehicle"/>
+</qualifiedTypeNameHistroy>
