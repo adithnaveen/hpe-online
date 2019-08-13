@@ -1,0 +1,124 @@
+
+
+--------------------------------------
+Inheritance 
+	extends 
+	class Car extends Vehilcle {
+	}
+	
+	Student, HOD, Person 
+--------------------------------------
+Polymorhism 
+Encapsulation 
+	public 
+	private 
+	protected 
+	default (package) 
+	
+	have a class with private variable(member) 
+		public getters and setters 
+Abstraction 
+	abstract methods 
+
+class Car extends Vehicle{}
+// car is-a vehicle  - OOAD 
+// car is an instance of Vehicle  -oops 
+
+
+Car c = new Car(); 
+HatchBack h = new HatchBack(); 
+SUV s = new SUV(); 
+
+Truck t = new Truck(); 
+Bicycle b = new Bicycle();
+Aeroplane a = new Aeroplane(); 
+
+
+
+
+
+abstract clss Vehicle {
+	public abstract void move(); 
+	public abstract void stop(); 
+}
+
+class abstract Car extends Vehicle{
+	// you have to override the methods which are there 
+	// in the vehicle class 
+	
+	// or 
+	// make the class as abstract 
+}
+
+class Ford extends Car{
+	// now its mandotory that the ford class 
+	// has to override all the metohds of car and Vehicle 
+	// class 
+}
+
+
+abstract class Control {
+	public abstract void on(); 
+	public abstract void off(); 
+}
+
+// philips 
+class Bulb extends Control{
+	public void on(){}
+	public  void off(){}
+}
+
+// epson 
+class Projector{
+	public void on(){}
+	public  void off(){}
+}
+
+// samsung 
+class Television {
+	public void on(){}
+	public  void off(){}
+}
+
+
+// like wise amazon have to do it for 1000000 
+Control c = new Bulb(); 
+c.on();  
+c.off(); 
+
+c= new Television(); 
+c.on();  
+c.off(); 
+
+c = new Projector(); 
+c.on();  
+c.off(); 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
