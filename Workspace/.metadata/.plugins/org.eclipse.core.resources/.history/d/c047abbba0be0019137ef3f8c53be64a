@@ -1,0 +1,12 @@
+package com.hpe.day4;
+
+public class Square  implements IFigure{
+
+	private int len; 
+	@Override
+	public void area() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

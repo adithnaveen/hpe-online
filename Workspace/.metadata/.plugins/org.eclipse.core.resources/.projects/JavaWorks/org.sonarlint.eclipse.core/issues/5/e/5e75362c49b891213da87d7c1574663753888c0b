@@ -1,8 +1,18 @@
 
-p
-squid:S106"9Replace this use of System.out or System.err by a logger.(’ŒØ½úÿÿÿÿ8 ¸Ç-HVRMAJORZ
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(“ëœúÿÿÿÿ8•º„ÜÈ-H€RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸ÍİÆ8­‹…ÜÈ-HRMAJORZ
 CODE_SMELL
 k
 squid:S106
-"9Replace this use of System.out or System.err by a logger.(é¯ºá8ÎÈ³¸Ç-H_RMAJORZ
+"9Replace this use of System.out or System.err by a logger.(é¯ºá8ÎÈ³¸Ç-HiRMAJORZ
+CODE_SMELL
+rsquid:S1161":Add the "@Override" annotation above this method signature(À–®»ÿÿÿÿÿ8æ³ƒÜÈ-H{RMAJORZ
+CODE_SMELL
+rsquid:S1161":Add the "@Override" annotation above this method signature(œ€Íùÿÿÿÿ8æ³ƒÜÈ-HxRMAJORZ
+CODE_SMELL
+p
+squid:S106"9Replace this use of System.out or System.err by a logger.(’ŒØ½úÿÿÿÿ8 ¸Ç-HhRMAJORZ
 CODE_SMELL

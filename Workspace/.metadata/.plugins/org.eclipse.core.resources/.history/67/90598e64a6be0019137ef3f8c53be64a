@@ -1,0 +1,14 @@
+package com.hpe.day4;
+
+class Device{}
+
+public class GCTest {
+	public static void main(String[] args) {
+		
+		System.gc(); 
+		Runtime.getRuntime().gc();
+		
+		Device d = new Device(); 
+		
+	}
+}

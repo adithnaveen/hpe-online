@@ -1,0 +1,110 @@
+Overrding (Polymorphism)  -> Late Binding -> happens between two classes which is parent and child 
+
+class Vehicle {
+	move();
+}
+
+class Car extends Vehicle{
+	move(); 
+}
+
+Inheritence - IS A
+  
+  
+1) Garbage Collector 
+	deamon -> background processes -> 
+		you can all or leave the JVM to call. 
+		
+2) Overloading 
+3) Static and Instance
+	static variable/method are avaible even before the object 
+		is created 
+4) Interface 
+		// this is not allowed 
+	class MyClass extends YourClass extends SomeOtherClass {
+	}
+	
+	in java a class can extends only 1 class 
+	
+	Interfaces are used in java majorly to work with multiple inheritence 
+	
+	
+	// interfaces are 100% abstract 
+	// they can have only defn 
+	// interfaces cannot be used to create an object 
+	// since the method is abstract, you cannot create
+	// an object of Interface 
+	
+	interface IMyInterface {
+		public static final int x; 
+		hi();
+	}
+	
+	// valid 
+	class MyClass implements IMyInterface{
+	// you have to implement all the methods which are 
+	// there in the IMyInterface
+	}
+	
+	 i) The class does not extends the Interface instead 
+		 they implements
+	 ii) The interface extends one more more interface(s) 
+			interface i1 extends i2, i3, i4{}
+     iii) The interface neither extends nor implements the 
+			class 
+	  iv) the class can extends only 1 class 
+	   v) class which can extends only 1 class, but 
+			it can also implement multiple interface
+	
+	
+	
+	
+	
+	
+	
+	
+5) “HAS A” ->
+
+	// USA -> India 
+	class Employee{
+		private int empId; 
+		private Name name; 
+		private double empIncome; 
+		// Getters and setters 
+	}
+	
+	class Customer {
+		private int custId; 
+		private Name name; 
+		private double custIncome; 
+	}
+	
+	
+	class Name {
+		private String firstName; 
+		private String lastName; 
+		private String middleName; 
+	}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

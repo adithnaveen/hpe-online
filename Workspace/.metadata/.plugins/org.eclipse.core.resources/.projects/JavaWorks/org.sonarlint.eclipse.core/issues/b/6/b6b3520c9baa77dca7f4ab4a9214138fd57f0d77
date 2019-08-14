@@ -1,5 +1,11 @@
 
-p
-squid:S106
-"9Replace this use of System.out or System.err by a logger.(©üÃõüÿÿÿÿ8ÊÎ¥¸Ç-H\RMAJORZ
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(©üÃõüÿÿÿÿ8²Á¶ÜÈ-H…RMAJORZ
+CODE_SMELL
+q
+squid:S106	"9Replace this use of System.out or System.err by a logger.(©üÃõüÿÿÿÿ8ÊÎ¥¸Ç-H„RMAJORZ
+CODE_SMELL
+[squid:S1481"'Remove this unused "vh" local variable.(Í•ªâ8ÑèæÜÈ-H“RMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾²Øşÿÿÿÿ8ÑèæÜÈ-H”RMAJORZ
 CODE_SMELL

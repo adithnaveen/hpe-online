@@ -1,0 +1,7 @@
+package com.hpe.day4;
+
+public class StaticEx01 {
+	public static void main(String[] args) {
+		
+	}
+}

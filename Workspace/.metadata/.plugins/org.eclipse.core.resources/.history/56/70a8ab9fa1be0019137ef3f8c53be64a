@@ -1,0 +1,10 @@
+package com.hpe.day4;
+
+public class Rectangle extends Square implements IFigure{
+
+	public Rectangle(int len) {
+		super(len);
+		// TODO Auto-generated constructor stub
+	}
+
+}

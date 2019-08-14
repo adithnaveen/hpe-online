@@ -1,10 +1,9 @@
 
-p
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÜÛú—øÿÿÿÿ8¦Ë™¸Ç-HQRMAJORZ
-CODE_SMELL
-p
-squid:S106"9Replace this use of System.out or System.err by a logger.(ôè“îüÿÿÿÿ8¦Ë™¸Ç-HRRMAJORZ
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(•š×úÿÿÿÿ8™ŞäÜÈ-H‘RMAJORZ
 CODE_SMELL
 j
-squid:S106"9Replace this use of System.out or System.err by a logger.(‚¢İ8–ô´¸Ç-H`RMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚¢İ8–ô´¸Ç-HeRMAJORZ
+CODE_SMELL
+psquid:S1610"7Convert the abstract class "Vehicle" into an interface.(èìòøÿÿÿÿ8§¹ÈÜÈ-HRMINORZ
 CODE_SMELL

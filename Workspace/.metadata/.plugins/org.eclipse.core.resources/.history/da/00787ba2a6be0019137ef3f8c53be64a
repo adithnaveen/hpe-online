@@ -1,0 +1,23 @@
+package com.hpe.day4;
+
+class Device{
+
+	@Override
+	protected void finalize() throws Throwable {
+		// TODO Auto-generated method stub
+		super.finalize();
+	}
+	
+}
+
+public class GCTest {
+	public static void main(String[] args) {
+		
+		System.gc(); 
+		Runtime.getRuntime().gc();
+		
+		Device d = new Device(); 
+		System.out.println(d.hashCode());
+		System.out.println("This is my last line ");
+	}
+}

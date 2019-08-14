@@ -1,0 +1,15 @@
+package com.hpe.day4;
+
+public class FigureClient {
+	
+	public static void showArea(IFigure figure) {
+		figure.area(); 
+	}
+	
+	public static void main(String[] args) {
+		IFigure figures[]  = new IFigure[5]; 
+		
+		figures[0] = new Circle(10); 
+		
+	}
+}

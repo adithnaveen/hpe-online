@@ -1,0 +1,29 @@
+package com.hpe.day4;
+
+
+// access specfiers -> public, protected, private, default 
+// access modifiers -> static, final, synchronized, abstract 
+// accessSpecifier accessModifier returnType methodName(params) 
+
+
+public class StaticEx01 {
+	
+	public static  int add(int num1, int num2) {
+		return num1 + num2; 
+	}
+	// static block cannot be invoked, they are just executed in 
+	// sequential order 
+	
+	// if you are connecting to DB 
+	static {	
+			System.out.println("First Static block ");
+	}
+	static {
+		System.out.println("This is second static block ");
+	}
+	public static void main(String[] args) {
+		 
+		int result =  add(10, 20);
+		System.out.println("Result " + result);
+	}
+}

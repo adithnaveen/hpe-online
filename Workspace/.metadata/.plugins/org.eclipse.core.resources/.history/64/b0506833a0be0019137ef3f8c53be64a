@@ -1,0 +1,6 @@
+package com.hpe.day4;
+
+// standards 
+public interface IFigure {
+	void area(); 
+}

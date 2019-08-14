@@ -1,0 +1,19 @@
+package com.hpe.day4;
+
+
+// access specfiers -> public, protected, private, default 
+// access modifiers -> static, final, synchronized, abstract 
+// accessSpecifier accessModifier returnType methodName(params) 
+
+
+public class StaticEx01 {
+	
+	public static  int add(int num1, int num2) {
+		return num1 + num2; 
+	}
+	
+	public static void main(String[] args) {
+		StaticEx01 se = new StaticEx01(); 
+		int result =  se.add(10, 20);
+	}
+}
