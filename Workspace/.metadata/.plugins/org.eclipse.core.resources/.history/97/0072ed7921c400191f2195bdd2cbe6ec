@@ -1,0 +1,19 @@
+package com.hpe.day7;
+
+import java.util.HashSet;
+
+public class SetEx01 {
+	public static void main(String[] args) {
+		HashSet<String> set = new HashSet<String>();
+
+		System.out.println(set.add("Jeffery"));
+		System.out.println(set.add("Arun"));
+		System.out.println(set.add("Tze Wei"));
+		System.out.println(set.add("Miguel"));
+		System.out.println(set.add("Miguel"));
+		System.out.println(set.add("Miguel"));
+		System.out.println(set.add("Miguel"));
+
+		System.out.println(set);
+	}
+}

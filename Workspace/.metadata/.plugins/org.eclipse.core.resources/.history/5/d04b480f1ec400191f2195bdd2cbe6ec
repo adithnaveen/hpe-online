@@ -1,0 +1,7 @@
+package com.hpe.day7;
+
+public class ListObjectStore {
+	public static void main(String[] args) {
+		
+	}
+}

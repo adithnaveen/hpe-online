@@ -1,0 +1,16 @@
+package com.hpe.day7;
+
+public class Devices {
+	private int dId; 
+	private String dName; 
+	private double dPrice;
+	public Devices(int dId, String dName, double dPrice) {
+		super();
+		this.dId = dId;
+		this.dName = dName;
+		this.dPrice = dPrice;
+	} 
+	
+	
+	
+}

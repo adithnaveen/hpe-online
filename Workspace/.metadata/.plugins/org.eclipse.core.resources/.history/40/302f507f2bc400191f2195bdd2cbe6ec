@@ -1,0 +1,11 @@
+package com.hpe.day7;
+
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+public class DictionaryEx01 {
+	public static void main(String[] args) {
+		Map<String, List<String>> dicttionary = new HashMap<String, List<String>>(); 
+	}
+}

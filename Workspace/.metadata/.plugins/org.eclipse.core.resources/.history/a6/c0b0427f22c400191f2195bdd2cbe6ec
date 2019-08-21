@@ -1,0 +1,11 @@
+package com.hpe.day7;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class SetEx02 {
+	public static void main(String[] args) {
+		Set<Devices> set = new HashSet<Devices>(); 
+		
+	}
+}

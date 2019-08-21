@@ -1,0 +1,13 @@
+package com.hpe.day7;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class MapEx01 {
+	public static void main(String[] args) {
+		Map<String, Integer> map = new HashMap<String, Integer>(); 
+		
+		map.put("Naveen", "naveen@probits.in"); 
+		
+	}
+}

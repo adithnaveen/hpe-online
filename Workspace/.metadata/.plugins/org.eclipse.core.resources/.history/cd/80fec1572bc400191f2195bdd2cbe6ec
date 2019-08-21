@@ -1,0 +1,7 @@
+package com.hpe.day7;
+
+public class DictionaryEx01 {
+	public static void main(String[] args) {
+		
+	}
+}

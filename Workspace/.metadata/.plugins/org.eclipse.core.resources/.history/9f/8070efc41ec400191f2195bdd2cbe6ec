@@ -1,0 +1,9 @@
+package com.hpe.day7;
+
+public class Devices {
+	private int dId; 
+	private String dName; 
+	private double dPrice;
+	
+	
+}

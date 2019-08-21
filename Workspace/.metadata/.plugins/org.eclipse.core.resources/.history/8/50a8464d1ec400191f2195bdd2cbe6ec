@@ -1,0 +1,15 @@
+package com.hpe.day7;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ListObjectStore {
+	public static void main(String[] args) {
+		
+		List<Devices> devices  = new ArrayList<Devices>(); 
+		
+		devices.add(new Devices(101, "Computer", 400)); 
+		
+		
+	}
+}

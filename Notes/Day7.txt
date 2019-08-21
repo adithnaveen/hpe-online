@@ -1,0 +1,59 @@
+a = (1234)
+s[0]*31^(n-1) + s[1]*31^(n-2) + ... + s[n-1] 
+a = (1234)
+s[0]*31^(n-1) + s[1]*31^(n-2) + ... + s[n-1] 
+
+
+
+Devices [dId=234, dName=Mobile, dPrice=300.0], 2018699554
+Devices [dId=222, dName=Mouse, dPrice=29.0], 118352462
+Devices [dId=101, dName=Computer, dPrice=400.0], 366712642
+Devices [dId=123, dName=Laptop, dPrice=700.0], 1829164700
+Devices [dId=222, dName=Mouse, dPrice=29.0], 1311053135
+-----------------------------------------------------------
+Devices [dId=101, dName=Computer, dPrice=400.0], 67
+Devices [dId=123, dName=Laptop, dPrice=700.0], 76
+Devices [dId=234, dName=Mobile, dPrice=300.0], 77
+Devices [dId=222, dName=Mouse, dPrice=29.0], 77
+Devices [dId=222, dName=Mouse, dPrice=29.0], 77
+-----------------------------------------------------------
+Devices [dId=101, dName=Computer, dPrice=400.0], 67
+Devices [dId=123, dName=Laptop, dPrice=700.0], 76
+Devices [dId=234, dName=Mobile, dPrice=300.0], 77
+Devices [dId=222, dName=Mouse, dPrice=29.0], 77
+
+
+
+
+Keep the devices in treeset 
+
+Exception in thread "main" java.lang.ClassCastException: com.hpe.day7.Devices cannot be cast to java.lang.Comparable
+	at java.util.TreeMap.compare(TreeMap.java:1294)
+	at java.util.TreeMap.put(TreeMap.java:538)
+	at java.util.TreeSet.add(TreeSet.java:255)
+	at com.hpe.day7.SetEx04.main(SetEx04.java:10)
+
+
+
+<Object>
+
+key 	values 
+101 new Product(computer, 200)
+
+<Key, Value>
+
+"goodmorning", ["Good Morning", "Shubhudaya", "Bonjour"]
+
+<String, List<String>>
+<String, List<String>>
+Map<String, Map<String,List<String>>>
+Map<String, String[]> 
+
+
+
+
+
+
+
+
+
