@@ -1,0 +1,26 @@
+
+‹squid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8ÛúÈ…É-HÑRCRITICALZ
+CODE_SMELL
+€"squid:ObjectFinalizeOverridenCheck"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ8ôºĞ…É-HÛRCRITICALZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦»½…üÿÿÿÿ8ÌÁÍ…É-HØRMAJORZ
+CODE_SMELL
+l
+squid:S106""9Replace this use of System.out or System.err by a logger.(À”Üû8ÿ¼Ò…É-HİRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡åëò8¸€Ú…É-HäRMAJORZ
+CODE_SMELL
+squid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(‚êİ§şÿÿÿÿ8ÛúÈ…É-HĞRCRITICALZ
+CODE_SMELL
+q
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(Ğ»ô÷ÿÿÿÿÿ8§Ì…É-H×RMAJORZ
+CODE_SMELL
+l
+squid:S106!"9Replace this use of System.out or System.err by a logger.(–€‘á8ÄıÚ…É-HæRMAJORZ
+CODE_SMELL
+hsquid:S2151"3Remove this call to "System.runFinalizersOnExit()".(š×à¹ÿÿÿÿÿ8ãÔ…É-HàRCRITICALZBUG
+…squid:CallToDeprecatedMethod";Remove this use of "runFinalizersOnExit"; it is deprecated.(š×à¹ÿÿÿÿÿ8ãÔ…É-HáRMINORZ
+CODE_SMELL

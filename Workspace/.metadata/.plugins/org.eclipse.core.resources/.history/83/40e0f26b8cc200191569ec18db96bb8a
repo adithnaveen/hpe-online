@@ -1,0 +1,9 @@
+package com.hpe.day5;
+
+public class ClientInner {
+
+	public static void main(String[] args) {
+		BusinessLogic bl = new BusinessLogic(); 
+		bl.todo(); 
+	}
+}

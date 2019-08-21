@@ -1,0 +1,21 @@
+package com.hpe.day5;
+
+import java.util.Comparator;
+
+public class StudentSortTemplate {
+
+	public static Student[] sortStudentById(Student [] students) {
+		
+		new Comparator<Student>() {
+
+			@Override
+			public int compare(Student o1, Student o2) {
+				// TODO Auto-generated method stub
+				return 0;
+			}
+			
+		};
+		
+	}
+	
+}

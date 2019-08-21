@@ -3,4 +3,25 @@
 <fullyQualifiedTypeName name="com.hpe.day2.Car"/>
 <fullyQualifiedTypeName name="com.hpe.day2.Truck"/>
 <fullyQualifiedTypeName name="com.hpe.day2.Vehicle"/>
+<fullyQualifiedTypeName name="com.hpe.day4.IFigure"/>
+<fullyQualifiedTypeName name="com.hpe.day4.Circle"/>
+<fullyQualifiedTypeName name="com.hpe.day4.Square"/>
+<fullyQualifiedTypeName name="com.hpe.day4.Rectangle"/>
+<fullyQualifiedTypeName name="java.lang.Runtime"/>
+<fullyQualifiedTypeName name="com.hpe.day4.Employee"/>
+<fullyQualifiedTypeName name="com.hpe.day4.StaticEx01"/>
+<fullyQualifiedTypeName name="com.hpe.day5.BusinessLogic"/>
+<fullyQualifiedTypeName name="com.hpe.day5.BusinessLogic.InnerClass"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="com.hpe.day5.Student"/>
+<fullyQualifiedTypeName name="java.lang.Comparable"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+<fullyQualifiedTypeName name="com.hpe.day5.StudentSortTemplate"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
 </qualifiedTypeNameHistroy>

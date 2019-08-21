@@ -1,7 +1,0 @@
-package com.hpe.day2;
-
-public class Truck {
-	public void carrierCapacity() {
-		System.out.println("Every truck has carrierCapacity...");
-	}
-}

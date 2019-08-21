@@ -1,0 +1,50 @@
+package com.hpe.day5;
+
+import java.util.Arrays;
+import java.util.Comparator;
+
+public class StudentSortTemplate {
+
+	/*
+	 * public static Student[] sortStudentById(Student [] students) {
+	 * 
+	 * Comparator<Student> comparator = new Comparator<Student>() {
+	 * 
+	 * @Override public int compare(Student o1, Student o2) { return
+	 * o1.getsId()-o2.getsId(); }
+	 * 
+	 * };
+	 * 
+	 * Arrays.sort(students, comparator);
+	 * 
+	 * return students;
+	 * 
+	 * }
+	 */	
+
+	/*
+	 * public static Student[] sortStudentById(Student [] students) {
+	 * Arrays.sort(students, new Comparator<Student>() {
+	 * 
+	 * @Override public int compare(Student o1, Student o2) { return
+	 * o1.getsId()-o2.getsId(); }
+	 * 
+	 * }); return students; }
+	 */
+
+	
+	
+	
+	public static Student[] sortStudentById(Student [] students) {
+		Arrays.sort(students, new Comparator<Student>() {
+
+			@Override
+			public int compare(Student o1, Student o2) {
+				return o1.getsId()-o2.getsId(); 
+			}
+			
+		}); 
+		return students; 
+	}
+
+}

@@ -1,0 +1,8 @@
+package com.hpe.day5;
+
+public class MathEx01 {
+	public static void main(String[] args) {
+		System.out.println(Math.PI);
+		
+	}
+}

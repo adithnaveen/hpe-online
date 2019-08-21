@@ -1,0 +1,11 @@
+package com.hpe.day6;
+
+public class LambdaEx01 {
+	public static void main(String[] args) {
+		int [] ints = {10, 20, 30, 50}; 
+		
+		for(int x =0; x<ints.length; x++) {
+			System.out.println(ints[x]);
+		}
+	}
+}

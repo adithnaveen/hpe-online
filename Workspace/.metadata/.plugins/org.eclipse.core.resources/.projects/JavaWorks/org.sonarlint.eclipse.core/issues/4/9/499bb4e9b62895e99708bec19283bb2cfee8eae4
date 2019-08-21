@@ -1,0 +1,24 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆÓÀú8½˜½†É-HŸRMAJORZ
+CODE_SMELL
+k
+squid:S106("9Replace this use of System.out or System.err by a logger.(½¸‰.8ÉÒ·†É-HœRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ù‚˜®8Úò´†É-HšRMAJORZ
+CODE_SMELL
+l
+squid:S106,"9Replace this use of System.out or System.err by a logger.(§ûüÄ8¹–Â†É-H¡RMAJORZ
+CODE_SMELL
+q
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ÑñáÔûÿÿÿÿ8éÔ¶†É-H›RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûÍâÓ8›¿²†É-H˜RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğßÜª8€‚Á†É-H RMAJORZ
+CODE_SMELL
+’squid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8¼Ê»†É-HRMAJORZ
+CODE_SMELL

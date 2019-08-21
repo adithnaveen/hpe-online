@@ -1,0 +1,9 @@
+package com.hpe.day5;
+
+public class Student {
+	private int sId; 
+	private String name; 
+	private int marks; 
+	
+	
+}

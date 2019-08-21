@@ -1,7 +1,0 @@
-package com.hpe.basics;
-
-public class MathOperations {
-	public static void main(String args[]) {
-		
-	}
-}

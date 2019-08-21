@@ -1,0 +1,48 @@
+Oops 
+
+1. Oops (100%) 
+	99.9% Oops 
+
+	class Hi{
+		public static void main(String args[]){
+				Integer x = new Integer(10); 
+		}
+	}
+	
+Vehicle [] vehicles = new Vehicle[30]; 
+vehicles[0] = new Vehicle(); 
+... 
+... 
+vehicles[29] = new Vehicle(); 
+
+Vehicle [] vehicles1 = new Vehicle[60]; 
+
+// write a loop which will copy 
+// all the elements from vehicles to vehicles1
+// delete vehicles 
+
+vehicles1[30] = new Vehicle(); 
+
+	
+
+	list works 
+		
+		// try to create a sublist from elements 0,4 
+		// erase all elements in the list 
+		// 10, need to check if its present 
+		
+	
+	Stack  (LIFO ) - pop, push, peek 
+	LinkedList - add, addLast, remove, remove(any pos) 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

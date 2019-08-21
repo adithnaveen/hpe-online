@@ -1,0 +1,9 @@
+package com.hpe.day5;
+
+
+
+public class ComparableEx01 {
+	public static void main(String[] args) {
+		String [] strs = {"Harry", "Peter", "Laura", "Zara", "Dinesh"};
+	}
+}

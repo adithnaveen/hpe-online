@@ -19,6 +19,9 @@ Inheritence - IS A
 3) Static and Instance
 	static variable/method are avaible even before the object 
 		is created 
+	static variable is called as class level variable 
+	or class variable 
+	
 4) Interface 
 		// this is not allowed 
 	class MyClass extends YourClass extends SomeOtherClass {
