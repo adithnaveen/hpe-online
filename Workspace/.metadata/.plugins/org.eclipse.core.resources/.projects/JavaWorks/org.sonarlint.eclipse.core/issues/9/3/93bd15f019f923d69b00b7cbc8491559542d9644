@@ -1,0 +1,22 @@
+
+l
+squid:S106	"9Replace this use of System.out or System.err by a logger.(õ÷––8ôòÔıÊ-H®RMAJORZ
+CODE_SMELL
+}squid:S1192"FDefine a constant instead of duplicating this literal "Harry" 5 times.(ëãúÎ8øıÜıÊ-H³RCRITICALZ
+CODE_SMELL
+q
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(®»Û‘ûÿÿÿÿ8ôòÔıÊ-H¯RMAJORZ
+CODE_SMELL
+™squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(áÎ‡8ûÉÓıÊ-HªRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Í€¡ó8ÆÌ×ıÊ-H±RMAJORZ
+CODE_SMELL
+‚squid:S1192"FDefine a constant instead of duplicating this literal "Laura" 5 times.(Æïñ¥úÿÿÿÿ8øıÜıÊ-H²RCRITICALZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(›×½8ÆÌ×ıÊ-H°RMAJORZ
+CODE_SMELL
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(áÎ‡8ûÉÓıÊ-H¬RMINORZ
+CODE_SMELL

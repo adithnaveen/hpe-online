@@ -1,0 +1,5 @@
+package com.hpe.day8;
+
+public class SalaryTooLowException extends Exception {
+
+}

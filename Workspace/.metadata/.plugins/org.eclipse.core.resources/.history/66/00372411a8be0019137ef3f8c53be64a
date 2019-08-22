@@ -1,7 +1,0 @@
-package com.hpe.day4;
-
-public class Employee {
-	private int empId; 
-	private Name name; 
-	private double income; 
-}

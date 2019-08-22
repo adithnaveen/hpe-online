@@ -1,0 +1,30 @@
+
+l
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(Ã­µÌ8Õúá¤Ë-HáRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(àßä´úÿÿÿÿ8˜ˆã¤Ë-HãRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ùàÃòÿÿÿÿÿ8ÔœÙ¤Ë-HçRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ùàÃòÿÿÿÿÿ8˜ˆã¤Ë-HæRMAJORZ
+CODE_SMELL
+ƒsquid:S1192"GDefine a constant instead of duplicating this literal "Miguel" 4 times.(ùàÃòÿÿÿÿÿ8ğÌÛ¤Ë-HßRCRITICALZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ùàÃòÿÿÿÿÿ8˜ˆã¤Ë-HäRMAJORZ
+CODE_SMELL
+l
+squid:S106	"9Replace this use of System.out or System.err by a logger.( íçñ8È†á¤Ë-HàRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ûº«ñ8Õúá¤Ë-HâRMAJORZ
+CODE_SMELL
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(§’Èå8Â®Õ¤Ë-HÛRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ùàÃòÿÿÿÿÿ8˜ˆã¤Ë-HåRMAJORZ
+CODE_SMELL

@@ -1,0 +1,17 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(×ùôë8©¡È¦Ë-H²RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÌÙäÆ8È’ñ¦Ë-HÀRMAJORZ
+CODE_SMELL
+psquid:UselessImportCheck"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ8˜¤ó¦Ë-HÂRMINORZ
+CODE_SMELL
+Œsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(’Šü8¶ßÃ¦Ë-H¯RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(êç‹±8¢ÅÉ¦Ë-H³RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ê†üçÿÿÿÿÿ8Óâä¦Ë-H´RMAJORZ
+CODE_SMELL

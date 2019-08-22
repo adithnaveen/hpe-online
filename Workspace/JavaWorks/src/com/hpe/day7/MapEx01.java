@@ -17,7 +17,8 @@ public class MapEx01 {
 		
 		System.out.println(map.get("Naveen"));
 		System.out.println(map.get("Arun"));
-		
+		map.put("Naveen", 36); 
+
 		System.out.println("--------------------------------------");
 		
 		// ctrl -  2 + l 

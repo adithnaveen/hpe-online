@@ -57,3 +57,27 @@ N
 src/com/hpe/day5/MathEx01.java,d\9\d9e9e679ba27acbc4a94cac1dfd33ccd33777421
 P
  src/com/hpe/day5/StringEx01.java,4\5\452724de41fd64b10bbf0e869e093d521fac2173
+P
+ src/com/hpe/day6/LambdaEx01.java,7\7\77e015e09ea6e9e917c5254a9df7ff642b79422d
+N
+src/com/hpe/day6/ListEx01.java,6\b\6b71ff292e397fb3f7324768e0780bcd0ade10a6
+N
+src/com/hpe/day6/ListEx02.java,a\7\a74286fe5ddb31c6a108aae15debda2f9f1d4337
+N
+src/com/hpe/day6/ListEx03.java,9\3\93bd15f019f923d69b00b7cbc8491559542d9644
+M
+src/com/hpe/day7/SetEx01.java,f\4\f46f7ba75a8f9554dfbf234e507bffe7ee400ecc
+M
+src/com/hpe/day7/SetEx02.java,3\9\3941af1d5c271de608731e0fd3972716130d1f4e
+M
+src/com/hpe/day7/SetEx03.java,d\2\d2b487ff2cbd8c60d1ffd08fc2c4a615d37331e8
+U
+%src/com/hpe/day7/ListObjectStore.java,c\2\c23f2e0d796a3b34e16dd901de2c3d7acc2b9cca
+M
+src/com/hpe/day7/Devices.java,3\9\39008604709fbe4e81c47a1ade3eab20641eab59
+M
+src/com/hpe/day7/SetEx04.java,8\6\86426bcbac491460a39f948e6c6f497fad250c70
+M
+src/com/hpe/day7/MapEx01.java,7\7\77ffd0d3006ec043fe8c8eae185dba9cd5b0d63c
+T
+$src/com/hpe/day7/DictionaryEx01.java,3\6\36a80571f986040650fc340237665d85fd9a7a4e

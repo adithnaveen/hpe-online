@@ -1,0 +1,25 @@
+package com.hpe.day8;
+
+public class ExceptionEx01 {
+	public static void main(String[] args) {
+		try {
+			int x = Integer.parseInt(args[0]); 
+			int y = Integer.parseInt(args[1]); 
+			
+			int z = x/y; 
+			
+			System.out.println("Result is " + z);
+
+		}catch(ArithmeticException e) {
+			System.out.println("There is an arithmetic Exception the message " + e);
+			
+		}catch(NumberFormatException nfe) {
+			System.out.println("sorry you tried with chars/spl chars, "
+					+ "please with numbers only \n " + nfe );
+		}catch(Exception e) {
+			System.out.println("Sorry something went wrong contact Team " + e);
+		}
+		
+		System.out.println("This is some other business logic ");
+	}
+}

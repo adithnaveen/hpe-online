@@ -1,0 +1,36 @@
+package com.hpe.day8;
+
+public class ExceptionEx02 {
+	
+	public static void validateName(String name) 
+		{
+		if(name.length()<6) {
+			try {
+			throw new NameTooShortException("Sorry Not Processed, it small name " 
+					+ name +" minimum 6 Chars");
+			}catch(NameTooShortException ntse) {
+				ntse.printStackTrace(); 
+			}
+		}
+	}
+
+	public static void checkSalary(String name, int salary) 
+			throws SalaryTooLowException {
+		validateName(name); 
+		if (salary < 1000) {
+			throw new SalaryTooLowException("Your Salary is too low.. " + name);
+		} else if (salary >= 1000 && salary < 5000) {
+			throw new SalaryTooLowException("Hey you have the scope to earm more " + name);
+		} else {
+			System.out.println("Hey hope you are doing well " + name);
+		}
+	}
+
+	public static void main(String[] args) {
+		try {
+			checkSalary("Ha", 9000);
+		} catch (SalaryTooLowException e) {
+			e.printStackTrace();
+		}
+	}
+}

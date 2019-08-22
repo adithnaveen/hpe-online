@@ -1,35 +1,35 @@
 
 q
-squid:S106"9Replace this use of System.out or System.err by a logger.(ß»ëùÿÿÿÿ8Å¶ıÓÊ-HÑRMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(ß»ëùÿÿÿÿ8Å¶ıÓÊ-HÜRMAJORZ
 CODE_SMELL
 l
-squid:S106"9Replace this use of System.out or System.err by a logger.(ë¦šŸ8åÚñÓÊ-HÍRMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(×ŸÒë8“ãûÓÊ-HİRMAJORZ
 CODE_SMELL
 l
-squid:S106	"9Replace this use of System.out or System.err by a logger.(îß¯ı8°õÓÊ-HÎRMAJORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(×ŸÒë8“ãûÓÊ-HĞRMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(ò÷ëÄ8¼Ì“ÔÊ-HŞRMAJORZ
 CODE_SMELL
 q
-squid:S106"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ8ÜÔÊ-HØRMAJORZ
-CODE_SMELL
-˜squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(„ÇšŒüÿÿÿÿ8ÀûŒÔÊ-HÓRMAJORZ
-CODE_SMELL
-Ysquid:S2129" Remove this "String" constructor(ò„ß•şÿÿÿÿ8ˆğÓÊ-HËRMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ8ÜÔÊ-HßRMAJORZ
 CODE_SMELL
 l
-squid:S106"9Replace this use of System.out or System.err by a logger.(ò÷ëÄ8¼Ì“ÔÊ-HÚRMAJORZ
+squid:S106	"9Replace this use of System.out or System.err by a logger.(îß¯ı8°õÓÊ-HàRMAJORZ
 CODE_SMELL
 q
-squid:S106"9Replace this use of System.out or System.err by a logger.(¹‚ÎÃşÿÿÿÿ8¢’ÔÊ-HÙRMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹‚ÎÃşÿÿÿÿ8¢’ÔÊ-HáRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ë¦šŸ8åÚñÓÊ-HâRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ï˜©â8Íå”ÔÊ-HãRMAJORZ
+CODE_SMELL
+Ysquid:S2129" Remove this "String" constructor(ò„ß•şÿÿÿÿ8ˆğÓÊ-HäRMAJORZ
+CODE_SMELL
+˜squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(„ÇšŒüÿÿÿÿ8ÀûŒÔÊ-HåRMAJORZ
 CODE_SMELL
 q
-squid:S106"9Replace this use of System.out or System.err by a logger.(™©ôÃøÿÿÿÿ8úÆÔÊ-H×RMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(™©ôÃøÿÿÿÿ8úÆÔÊ-HæRMAJORZ
 CODE_SMELL
 l
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ì€Ì¯8²ƒùÓÊ-HÏRMAJORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(ï˜©â8Íå”ÔÊ-HÛRMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ì€Ì¯8²ƒùÓÊ-HçRMAJORZ
 CODE_SMELL

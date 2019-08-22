@@ -1,0 +1,14 @@
+
+squid:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(×›‹8ÖÈŸ¤Ë-HÅRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8®Âµ¤Ë-HÔRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8®Âµ¤Ë-HÕRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Êô²ºúÿÿÿÿ8“÷¨¤Ë-HÉRMAJORZ
+CODE_SMELL
+‚squid:S1192"FDefine a constant instead of duplicating this literal "Mouse" 6 times.(“ä³ùÿÿÿÿ8ù½¤Ë-HÖRCRITICALZ
+CODE_SMELL

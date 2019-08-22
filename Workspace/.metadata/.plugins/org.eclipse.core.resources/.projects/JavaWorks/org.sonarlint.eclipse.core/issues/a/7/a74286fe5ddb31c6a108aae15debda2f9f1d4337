@@ -1,0 +1,23 @@
+
+’squid:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(çÔ‹¶þÿÿÿÿ8ÅžèüÊ-HÖRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡¯±’ùÿÿÿÿ8ÏÒ˜ýÊ-H¤RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(”äÙóýÿÿÿÿ8ÏÒ˜ýÊ-H£RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ì‡¤§8ÀÔêüÊ-HÚRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(á«Çˆ8¨®–ýÊ-H¢RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢ÂÝÝøÿÿÿÿ8‘›ÿüÊ-HšRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8øóšýÊ-H¥RMAJORZ
+CODE_SMELL
+q
+squid:S106""9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8‚ÁœýÊ-H¦RMAJORZ
+CODE_SMELL

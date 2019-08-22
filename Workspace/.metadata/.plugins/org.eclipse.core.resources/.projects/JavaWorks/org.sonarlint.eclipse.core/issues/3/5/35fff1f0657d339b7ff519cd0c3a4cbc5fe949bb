@@ -1,16 +1,16 @@
 
-squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(êÎ¿œ8Î½öÒÊ-H‹RMAJORZ
-CODE_SMELL
-ssquid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ÏªâÒÊ-HüRMINORZ
-CODE_SMELL
 q
-squid:S106"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8°ðÃÒÊ-HÕRMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8£âÒÊ-HóRMAJORZ
 CODE_SMELL
-q
-squid:S106"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8£âÒÊ-HùRMAJORZ
+ssquid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ÏªâÒÊ-HôRMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(êÎ¿œ8Î½öÒÊ-HõRMAJORZ
 CODE_SMELL
 l
-squid:S106"9Replace this use of System.out or System.err by a logger.(È©ƒ«8£âÒÊ-HúRMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(È©ƒ«8£âÒÊ-HöRMAJORZ
 CODE_SMELL
-qsquid:S1197"8Move the array designator from the variable to the type.(îÌ¯äþÿÿÿÿ8áë¿ÒÊ-HÎRMINORZ
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8°ðÃÒÊ-H÷RMAJORZ
+CODE_SMELL
+qsquid:S1197"8Move the array designator from the variable to the type.(îÌ¯äþÿÿÿÿ8áë¿ÒÊ-HøRMINORZ
 CODE_SMELL

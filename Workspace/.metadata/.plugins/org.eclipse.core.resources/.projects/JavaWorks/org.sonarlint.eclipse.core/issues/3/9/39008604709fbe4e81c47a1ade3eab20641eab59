@@ -1,0 +1,5 @@
+
+osquid:S2259"BA "NullPointerException" could be thrown; "temp" is nullable here.(ÁÓâş8çÚÁ¥Ë-HşRMAJORZBUG
+Lsquid:S2097"Add a type test to this method.(ÜÑã8çÚÁ¥Ë-HÿRMINORZBUG
+usquid:S1126"AReplace this if-then-else statement by a single return statement.(ÁÓâş8çÚÁ¥Ë-H€RMINORZ
+CODE_SMELL

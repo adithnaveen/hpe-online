@@ -1,0 +1,116 @@
+Day 8 
+
+
+equals -> boolean  
+hashcode -> int 
+
+if repeated data comes to set it ignores 
+if repeated data comes to map it overrides 
+
+
+
+class MyJob{
+	public static void main(String [] args){
+		int  x = readFrom User ; 
+		int y = readFrom User ; 
+		
+		int z = x/ y; --> abort 
+		
+		System.out.println(z); 
+		
+		System.out.println("Some other business logic "); 
+		// 10000000
+		
+	}
+}
+
+
+
+Vehicle v; -> null 
+
+v.move(); 
+
+int [] arr = new int [-10] ; 
+
+
+
+
+
+try{
+	
+}catch(Exception e){
+	print(e) 
+}
+
+.. continue 
+
+
+
+// to connect DB 
+try{
+	// open the connection 
+	insert a record to DB -> processing 1000 
+	// close the connection 
+}catch(SQLException sqle){
+	System.out.println(sqle); 
+}finally {
+	// 100% will execute 
+}
+
+public void hi(){
+	try{
+		return ; 
+		
+	}catch(Exception e){
+		System.out.println(e); 
+	} finally {
+		close();
+	}
+	
+} 
+
+
+
+
+
+
+
+
+try{
+	// 1. AException  -> Insurance 
+	// 2. BException  -> Finance 
+	// 3. CException  -> Technical 
+}catch(Exception e){
+	if(e instanceOf A){
+		// partial deligation 
+	}else if(e instanceOf B){
+		// i'm may have to call other method 
+	}else if (e instanceOf C ){
+		System.out.println("Something is wrong"); 
+	}
+}
+
+
+try {
+	// TODO 
+}catch(AException ae ){
+	
+}catch(BException be ){
+
+}catch(CException ce){
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

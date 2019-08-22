@@ -1,0 +1,8 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(àßä´úÿÿÿÿ8ÊŠ’¦Ë-HšRMAJORZ
+CODE_SMELL
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(æ‡›ëûÿÿÿÿ8ÊŠ’¦Ë-H™RMINORZ
+CODE_SMELL
+nsquid:S1118":Add a private constructor to hide the implicit public one.(Æ”óÁ8Ùç§¦Ë-H¥RMAJORZ
+CODE_SMELL

@@ -1,7 +1,0 @@
-package com.hpe.day4;
-
-public class FigureClient {
-	public static void main(String[] args) {
-		
-	}
-}
