@@ -1,0 +1,19 @@
+package com.hpe.day9;
+
+public class Account {
+	private int balance; 
+	
+	// simulating the DB 
+	public Account(int balance) {
+		this.balance = balance; 
+	}
+	
+	public void withDraw(int amount) {
+		if(amount < balance) {
+			Thread.sleep(1000);
+			this.balance = this.balance - amount; 
+		}
+	}
+	
+	
+}

@@ -1,0 +1,27 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÛñÆøøÿÿÿÿ8ÉµíÍË-HİRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(±÷—ùÿÿÿÿ8µ¿™ÎË-HæRMAJORZ
+CODE_SMELL
+jsquid:S1854
+"7Remove this useless assignment to local variable "arr".(¯İ­8©¥šÎË-HèRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğ™Ú•ûÿÿÿÿ8‘ä’ÎË-H¿RMAJORZ
+CODE_SMELL
+[squid:S1481
+"(Remove this unused "arr" local variable.(¯İ­8©¥šÎË-HéRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜¸±¼øÿÿÿÿ8„“üÍË-HàRMAJORZ
+CODE_SMELL
+nsquid:S1141	"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Õ¡¦ÎË-HñRMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥š¿W8ÉµíÍË-HíRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Éœñæ8«Ñ¦ÎË-HôRMAJORZ
+CODE_SMELL

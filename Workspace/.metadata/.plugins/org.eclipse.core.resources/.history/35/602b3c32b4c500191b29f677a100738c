@@ -1,0 +1,22 @@
+package com.hpe.day9;
+
+
+class MyBusiness {
+	public void doMyJOb() {
+		
+	}
+}
+
+public class ThreadEx01 {
+	public static void main(String[] args) {
+		System.out.println("Hi i'm in Main ");
+		System.out.println("My name is " + Thread.currentThread().getName());
+		
+		for(int i=0; i<1000; i++) {
+			System.out.println("Value of i is " + i +" in " + Thread.currentThread().getName());
+		}
+		
+		System.out.println("Thread " +Thread.currentThread().getName() +" is exiting... ");
+		
+	}
+}

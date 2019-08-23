@@ -1,0 +1,23 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡ÑšÔıÿÿÿÿ8šœµ÷Ë-HÉRMAJORZ
+CODE_SMELL
+j
+squid:S1061"9Replace this use of System.out or System.err by a logger.(¼»ÄüÿÿÿÿHÂRMAJORZ
+CODE_SMELL
+q
+squid:S106%"9Replace this use of System.out or System.err by a logger.(‡ÑšÔıÿÿÿÿ8ƒØ¯÷Ë-HÆRMAJORZ
+CODE_SMELL
+Zsquid:S1148."#Use a logger to log this exception.(ş•§Ô8Ş†øË-HĞRMINORZVULNERABILITY
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(é½ÿûÿÿÿÿ8º™¶÷Ë-HÊRMAJORZ
+CODE_SMELL
+xsquid:S2142-"FEither re-interrupt this method or rethrow the "InterruptedException".(øôÔ×ûÿÿÿÿ8Ş†øË-HÑRMAJORZBUG
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¼»Äüÿÿÿÿ8şƒ«÷Ë-HÃRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤éÏ·úÿÿÿÿ8º™¶÷Ë-HËRMAJORZ
+CODE_SMELL
+nsquid:S1161":Add the "@Override" annotation above this method signature(“–ış8¦¯É÷Ë-HÎRMAJORZ
+CODE_SMELL

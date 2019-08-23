@@ -1,0 +1,14 @@
+package com.hpe.day9;
+
+public class Account {
+	private int balance; 
+	
+	// simulating the DB 
+	public Account(int balance) {
+		this.balance = balance; 
+	}
+	
+	
+	
+	
+}

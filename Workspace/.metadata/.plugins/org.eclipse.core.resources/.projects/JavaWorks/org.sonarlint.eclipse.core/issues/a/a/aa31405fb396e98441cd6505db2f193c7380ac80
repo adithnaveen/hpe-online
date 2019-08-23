@@ -1,0 +1,22 @@
+
+bsquid:S1481-")Remove this unused "ybl2" local variable.(„Ï‰ úÿÿÿÿ8ìÔ½øË-HïRMINORZ
+CODE_SMELL
+q
+squid:S1067"9Replace this use of System.out or System.err by a logger.(‡ÑšÔıÿÿÿÿ8¬¸®øË-HàRMAJORZ
+CODE_SMELL
+Zsquid:S1148""#Use a logger to log this exception.(ş•§Ô8Œ¶ÎøË-H€RMINORZVULNERABILITY
+usquid:S2094"BRemove this empty class, write its code or make it an "interface".(ÜŠ¨8ãÂ¥øË-HÔRMINORZ
+CODE_SMELL
+xsquid:S2142!"FEither re-interrupt this method or rethrow the "InterruptedException".(øôÔ×ûÿÿÿÿ8Œ¶ÎøË-HRMAJORZBUG
+q
+squid:S106&"9Replace this use of System.out or System.err by a logger.(¼»Äüÿÿÿÿ8¢ú¬øË-HŞRMAJORZ
+CODE_SMELL
+qsquid:S1854-"8Remove this useless assignment to local variable "ybl2".(„Ï‰ úÿÿÿÿ8ìÔ½øË-HíRMAJORZ
+CODE_SMELL
+]squid:S1481,")Remove this unused "ybl1" local variable.(²šÜÏ8ìÔ½øË-HîRMINORZ
+CODE_SMELL
+lsquid:S1854,"8Remove this useless assignment to local variable "ybl1".(²šÜÏ8¢°øË-HâRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡ÑšÔıÿÿÿÿ8¢ú¬øË-HßRMAJORZ
+CODE_SMELL

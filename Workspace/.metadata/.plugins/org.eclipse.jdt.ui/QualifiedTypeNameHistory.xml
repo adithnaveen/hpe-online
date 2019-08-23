@@ -33,4 +33,13 @@
 <fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="java.util.Map"/>
 <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+<fullyQualifiedTypeName name="java.lang.NegativeArraySizeException"/>
+<fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+<fullyQualifiedTypeName name="com.hpe.day8.SalaryTooLowException"/>
+<fullyQualifiedTypeName name="com.hpe.day8.NameTooShortException"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+<fullyQualifiedTypeName name="com.hpe.day9.MyBusiness"/>
+<fullyQualifiedTypeName name="com.hpe.day9.Account"/>
+<fullyQualifiedTypeName name="com.hpe.day9.BankingClient"/>
 </qualifiedTypeNameHistroy>

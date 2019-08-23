@@ -1,0 +1,14 @@
+
+_squid:S1148!"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8á¤âÏË-H¼RMINORZVULNERABILITY
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š…µ“øÿÿÿÿ8¹®¯ÏË-H–RMAJORZ
+CODE_SMELL
+xsquid:S2147 "DCombine this catch with the one at line 30, which has the same body.(”ı¾8á¤âÏË-H½RMINORZ
+CODE_SMELL
+Ğ%squid:RedundantThrowsDeclarationCheck"}Remove the declaration of thrown exception 'com.hpe.day8.SalaryTooLowException' which is a subclass of 'java.lang.Exception'.(úºŸİúÿÿÿÿ8Ã´áÏË-H»RMINORZ
+CODE_SMELL
+€squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(«ò¸øÿÿÿÿ8×ãàÏË-H¸RMAJORZ
+CODE_SMELL
+€squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(úºŸİúÿÿÿÿ8Ã´áÏË-HºRMAJORZ
+CODE_SMELL
+_squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8©ïÓÏË-H²RMINORZVULNERABILITY

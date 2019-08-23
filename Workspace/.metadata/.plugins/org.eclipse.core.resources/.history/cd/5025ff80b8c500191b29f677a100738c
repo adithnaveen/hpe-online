@@ -1,0 +1,11 @@
+package com.hpe.day9;
+
+class SomeBusinessLogic{}
+class YourBusinessLogic extends SomeBusinessLogic{
+	
+}
+public class ThreadEx02 {
+	public static void main(String[] args) {
+		
+	}
+}
