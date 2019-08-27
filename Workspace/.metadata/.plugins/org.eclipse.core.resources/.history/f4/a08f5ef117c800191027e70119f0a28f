@@ -1,0 +1,60 @@
+package com.hpe.day10;
+
+import java.io.FileOutputStream;
+import java.io.ObjectOutputStream;
+
+class Employee{
+	private int empId; 
+	private String empName; 
+	private double income;
+	
+	public Employee() {}
+	public Employee(int empId, String empName, double income) {
+		super();
+		this.empId = empId;
+		this.empName = empName;
+		this.income = income;
+	}
+	public int getEmpId() {
+		return empId;
+	}
+	public void setEmpId(int empId) {
+		this.empId = empId;
+	}
+	public String getEmpName() {
+		return empName;
+	}
+	public void setEmpName(String empName) {
+		this.empName = empName;
+	}
+	public double getIncome() {
+		return income;
+	}
+	public void setIncome(double income) {
+		this.income = income;
+	} 
+	
+}
+public class StoreAndGetObject {
+
+	public static  void saveEmployee(Employee employee) {
+		
+		ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("emps.ser")); 
+		
+		
+		
+		
+	}
+	
+	
+	public static Employee getEmployee() {
+		
+		return null; 
+	}
+	
+	
+	public static void main(String[] args) {
+		Employee emp = new Employee(101, "Naveen", 1212); 
+		saveEmployee(emp);
+	}
+}

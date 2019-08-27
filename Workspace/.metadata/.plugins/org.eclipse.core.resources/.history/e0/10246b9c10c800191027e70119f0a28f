@@ -1,0 +1,7 @@
+package com.hpe.day10;
+
+public class FileOperationEx02 {
+	public static void main(String[] args) {
+		File file = new File("myfolder"); 
+	}
+}

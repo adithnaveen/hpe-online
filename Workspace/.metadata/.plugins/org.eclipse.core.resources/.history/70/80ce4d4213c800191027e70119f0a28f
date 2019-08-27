@@ -1,0 +1,7 @@
+package com.hpe.day10;
+
+public class ReadWriteTextData {
+	public static void main(String[] args) {
+		
+	}
+}

@@ -1,9 +1,0 @@
-package com.hpe.day6;
-
-import java.util.List;
-
-public class ListEx01 {
-	public static void main(String[] args) {
-		
-	}
-}

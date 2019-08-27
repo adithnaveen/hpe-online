@@ -1,0 +1,52 @@
+package com.hpe.day10;
+
+class Employee{
+	private int empId; 
+	private String empName; 
+	private double income;
+	
+	public Employee() {}
+	public Employee(int empId, String empName, double income) {
+		super();
+		this.empId = empId;
+		this.empName = empName;
+		this.income = income;
+	}
+	public int getEmpId() {
+		return empId;
+	}
+	public void setEmpId(int empId) {
+		this.empId = empId;
+	}
+	public String getEmpName() {
+		return empName;
+	}
+	public void setEmpName(String empName) {
+		this.empName = empName;
+	}
+	public double getIncome() {
+		return income;
+	}
+	public void setIncome(double income) {
+		this.income = income;
+	} 
+	
+}
+public class StoreAndGetObject {
+
+	public void saveEmployee(Employee employee) {
+		
+		
+		
+	}
+	
+	
+	public Employee getEmployee() {
+		
+	}
+	
+	
+	public static void main(String[] args) {
+		
+	}
+}

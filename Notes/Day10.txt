@@ -1,0 +1,59 @@
+main(){
+	int x; 
+	printf("Enter a number" ); 
+	scanf("%d", &x); 
+	
+	
+	printf("You Entered %d", x); 
+}
+
+
+Windows (fat32 / NTFS) 
+void scanf(char *ptr, char &ptr){
+	/// your story 
+}
+
+Mac 
+void scanf(char *ptr, char &ptr){
+	/// your story 
+}
+
+Linux  
+void scanf(char *ptr, char &ptr){
+	/// your story 
+}
+
+JVM 
+public void scanf(param1, param2){
+	// TODO 
+}
+
+
+Reader and Writer 
+1. read the data from the end user 
+2. write the data to the flat file (.txt) 
+3. Read the data from the file and print it in 
+	Consoe 
+
+Serialization 
+InputStream And OutputStream 
+1. Store the object 
+2. Get the stored Object 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

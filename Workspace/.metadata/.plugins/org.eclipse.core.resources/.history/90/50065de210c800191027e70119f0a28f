@@ -1,0 +1,15 @@
+package com.hpe.day10;
+
+import java.io.File;
+
+public class FileOperationEx02 {
+	public static void main(String[] args) {
+		File file = new File("myfolder");
+		
+		String files [] = file.list();
+		
+		for(String temp : files) {
+			System.out.println("Name is " + temp);
+		}
+	}
+}

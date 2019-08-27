@@ -1,0 +1,45 @@
+
+„squid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(ªû€ºúÿÿÿÿ8Ä‹şôÌ-H½
+RMAJORZ
+CODE_SMELL
+_squid:S1148L"#Use a logger to log this exception.(Ú¸ÿÿÿÿÿ8ìäÚôÌ-H¬
+RMINORZVULNERABILITY
+msquid:S2259J"AA "NullPointerException" could be thrown; "oos" is nullable here.(İÛĞK8–ÛôÌ-H¯
+RMAJORZBUG
+q
+squid:S106["9Replace this use of System.out or System.err by a logger.(º‚şºùÿÿÿÿ8Ù‰…õÌ-HÛ
+RMAJORZ
+CODE_SMELL
+l
+squid:S106l"9Replace this use of System.out or System.err by a logger.(åßÑÏ8İ ŠõÌ-Hó
+RMAJORZ
+CODE_SMELL
+Zsquid:S1148a"#Use a logger to log this exception.( ÉùŞ8–‰‚õÌ-HÍ
+RMINORZVULNERABILITY
+q
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(æ…ıÿÿÿÿ8Ù‰…õÌ-HÜ
+RMAJORZ
+CODE_SMELL
+_squid:S1148G"#Use a logger to log this exception.(Ú¸ÿÿÿÿÿ8ìäÚôÌ-H«
+RMINORZVULNERABILITY
+ƒsquid:S2095W"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ä¤–¹üÿÿÿÿ8Ã÷€õÌ-HÃ
+RBLOCKERZBUG
+fsquid:S2093>"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ìäÚôÌ-H­
+RCRITICALZ
+CODE_SMELL
+_squid:S1148_"#Use a logger to log this exception.(Ú¸ÿÿÿÿÿ8•‡õÌ-Hå
+RMINORZVULNERABILITY
+k
+squid:S106E"9Replace this use of System.out or System.err by a logger.(Ç²Åc8’µßôÌ-H±
+RMAJORZ
+CODE_SMELL
+nsquid:S2259l"AA "NullPointerException" could be thrown; "emp" is nullable here.(åßÑÏ8¢ŒõÌ-Hö
+RMAJORZBUG
+q
+squid:S106m"9Replace this use of System.out or System.err by a logger.(™Ì¬‡şÿÿÿÿ8¢ŒõÌ-H÷
+RMAJORZ
+CODE_SMELL
+q
+squid:S106n"9Replace this use of System.out or System.err by a logger.(ˆ«ıÚúÿÿÿÿ8¢ŒõÌ-Hø
+RMAJORZ
+CODE_SMELL

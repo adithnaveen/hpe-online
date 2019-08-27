@@ -1,0 +1,9 @@
+package com.hpe.questions;
+
+public class DeamonThreadEx extends Thread  {
+
+	
+	public static void main(String[] args) {
+		
+	}
+}

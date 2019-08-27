@@ -1,0 +1,26 @@
+package com.hpe.day10;
+
+class Employee{
+	private int empId; 
+	private String empName; 
+	private double income; 
+	
+}
+public class StoreAndGetObject {
+
+	public void saveEmployee(Employee employee) {
+		
+		
+		
+	}
+	
+	
+	public Employee getEmployee() {
+		
+	}
+	
+	
+	public static void main(String[] args) {
+		
+	}
+}

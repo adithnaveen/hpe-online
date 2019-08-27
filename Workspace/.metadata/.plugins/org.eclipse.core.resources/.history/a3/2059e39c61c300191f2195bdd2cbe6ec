@@ -1,7 +1,0 @@
-package com.hpe.day6;
-
-public class ListEx03 {
-	public static void main(String[] args) {
-		
-	}
-}

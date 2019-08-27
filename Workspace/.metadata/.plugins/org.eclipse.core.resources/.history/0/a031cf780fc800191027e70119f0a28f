@@ -1,0 +1,17 @@
+package com.hpe.day10;
+
+import java.io.File;
+
+public class FileOperationsEx01 {
+	public static void main(String[] args) {
+		// this will not create the file instead this will be only the reference 
+		File file = new File("sample.txt");
+		
+		
+		if(file.exists()) {
+			System.out.println("The file exists with Name : " + file.getName());
+		}else {
+			file.createNewFile(); 
+		}
+	}
+}

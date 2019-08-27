@@ -1,0 +1,13 @@
+
+|squid:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(‚Æ¸áÿÿÿÿÿ8Àş¡ôÌ-Hô	RBLOCKERZBUG
+_squid:S1148"#Use a logger to log this exception.(Ú¸ÿÿÿÿÿ8¿Å£ôÌ-Hø	RMINORZVULNERABILITY
+{squid:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Âõ–8¼Ñ«ôÌ-H‚
+RBLOCKERZBUG
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬©øö8øÔ­ôÌ-H…
+RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8øÔ­ôÌ-H†
+RMAJORZ
+CODE_SMELL
