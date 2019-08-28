@@ -1,0 +1,18 @@
+package com.hpe.client;
+
+import com.hpe.beans.Employee;
+import com.hpe.dao.EmployeeDAO;
+import com.hpe.standards.IEmployeeDAO;
+
+public class App {
+	public static void main(String[] args) {
+		IEmployeeDAO employeeDao = new EmployeeDAO(); 
+		
+		Employee employee = new Employee(101, "Naveen", "naveen@probits.in"); 
+		
+		System.out.println(employeeDao.insertEmployee(employee) ? 
+					"Record Inserted " :"Record Not Inserted ");
+
+
+	}
+}

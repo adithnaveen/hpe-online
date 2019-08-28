@@ -1,0 +1,18 @@
+package com.hpe.connection;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+public class GetConnection {
+
+	static Connection connection; 
+	
+	public static  Connection getMySQlConnection() {
+		// if you invoke Class.forName this will invoke the static {} of 
+		// the class assiciated 
+		Class.forName("com.mysql.jdbc.Driver");
+		connection = DriverManager.getConnection("jdbc:mysql://localhost/hpe_online_aug_2019", 
+				"root", "kanchan"); 
+		
+	}
+}

@@ -1,0 +1,14 @@
+1. create the data 
+	> create database hpe_online_aug_2019 
+2. use the DB 
+	> use hpe_online_aug_2019 
+3. Create the table Employee 
+	create table Employee(
+		emp_id int(4) primary key, 
+		emp_name varchar(40) not null, 
+		emp_email varchar(80)); 
+		
+		
+4. CRUD operations from JAVA 
+	
+https://dev.mysql.com/downloads/file/?id=489462https://dev.mysql.com/downloads/file/?id=487425

@@ -1,0 +1,12 @@
+package com.hpe.connection;
+
+import java.sql.Connection;
+
+public class GetConnection {
+
+	static Connection connection; 
+	
+	public static  Connection getMySQlConnection() {
+		Class.forName(""); 
+	}
+}

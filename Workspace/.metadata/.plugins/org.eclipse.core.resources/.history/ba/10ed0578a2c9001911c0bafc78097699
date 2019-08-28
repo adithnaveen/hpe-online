@@ -1,0 +1,19 @@
+package com.hpe.beans;
+
+public class Employee {
+	private int empId; 
+	private String empName; 
+	private String email;
+	
+	public Employee() {}
+	public Employee(int empId, String empName, String email) {
+		super();
+		this.empId = empId;
+		this.empName = empName;
+		this.email = email;
+	} 
+	
+	
+	
+	
+}

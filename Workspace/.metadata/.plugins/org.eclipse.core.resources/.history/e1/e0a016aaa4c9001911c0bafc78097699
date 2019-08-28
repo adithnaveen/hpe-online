@@ -1,0 +1,5 @@
+package com.hpe.standards;
+
+public interface IEmployeeDAO {
+	
+}

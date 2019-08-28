@@ -1,0 +1,5 @@
+package com.hpe.connection;
+
+public class GetConnection {
+
+}

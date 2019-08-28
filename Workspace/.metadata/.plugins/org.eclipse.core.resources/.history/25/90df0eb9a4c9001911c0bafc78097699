@@ -1,0 +1,13 @@
+package com.hpe.standards;
+
+import com.hpe.beans.Employee;
+
+public interface IEmployeeDAO {
+//	1. insert 
+	public boolean insertEmployee(Employee employee); 
+	
+//	2. update 
+//	3. delete 
+//	4. select - one 
+//	5. select - all 
+}
