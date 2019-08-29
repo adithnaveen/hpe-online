@@ -14,7 +14,7 @@ public class EmployeeDAO  implements IEmployeeDAO{
 	public boolean insertEmployee(Employee employee) {
 		//? called as positional parameters (start from 1) 
 		String sql ="insert into employee values (?,?,?)"; 
-		
+		// 1000 
 		GetConnection gc = new GetConnection(); 
 		
 		try {
@@ -28,6 +28,13 @@ public class EmployeeDAO  implements IEmployeeDAO{
 			
 		} catch (SQLException e) {
 			e.printStackTrace();
+		}finally {
+			try {
+				gc.ps.close();
+			} catch (SQLException e) {
+				e.printStackTrace();
+			} 
+			
 		}
 		
 		return false;
@@ -55,16 +62,37 @@ public class EmployeeDAO  implements IEmployeeDAO{
 
 	@Override
 	public boolean deleteEmployee(int empId) {
-		// TODO Auto-generated method stub
+
+		String sql ="delete from employee where emp_id =?";
+		
+		GetConnection gc = null; 
+		try {
+			gc = new GetConnection(); 
+			
+			gc.ps = GetConnection.getMySQlConnection().prepareStatement(sql); 
+			gc.ps.setInt(1, empId);
+			
+			return gc.ps.executeUpdate() > 0 ;
+		}catch(SQLException sqle) {
+			sqle.printStackTrace(); 
+		}finally {
+			try {
+			gc.ps.close();
+			}catch(SQLException sqlee) {
+				sqlee.printStackTrace(); 
+			}
+		}
+		
 		return false;
 	}
 
 	@Override
-	public Employee getEmployee(int empId) {
+	public Employee getEmployee(int empId) throws SQLException {
 		String sql = "select * from employee where emp_id=?"; 
 		
+		GetConnection gc = null; 
 		try {
-			GetConnection gc = new GetConnection(); 
+			gc = new GetConnection(); 
 			gc.ps = GetConnection.getMySQlConnection().prepareStatement(sql); 
 			gc.ps.setInt(1, empId);
 			
@@ -78,9 +106,13 @@ public class EmployeeDAO  implements IEmployeeDAO{
 				
 				return employee; 
 			}
-
-		} catch (SQLException e) {
-			e.printStackTrace();
+		}finally {
+			try {
+				gc.ps.close(); 
+				gc.rs.close();
+			} catch (SQLException e) {
+				e.printStackTrace();
+			} 
 		}
 		
 		return null;

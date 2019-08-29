@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+
+
+<library>
+	<book author="Galvin">
+		<chapter>
+			<section>Critical Sections </section> 
+			<section>Context Switch </section> 
+		</chapter>
+		
+		<chapter>
+			<section>Managing Swap Memory  </section> 
+			<section>Introduction </section> 
+		</chapter>
+		
+	</book>
+	
+	<book author="Patrick Naughton">
+		<chapter>
+			<section>Introduction to Java </section> 
+			<section>Data Types </section> 
+		</chapter>
+		
+		<chapter>
+			<section>Collections</section> 
+			<section>Generics</section> 
+		</chapter>
+		
+	</book>
+	
+</library> 

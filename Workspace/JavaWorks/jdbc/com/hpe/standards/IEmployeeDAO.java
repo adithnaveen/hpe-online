@@ -1,5 +1,6 @@
 package com.hpe.standards;
 
+import java.sql.SQLException;
 import java.util.List;
 
 import com.hpe.beans.Employee;
@@ -15,7 +16,7 @@ public interface IEmployeeDAO {
 	public boolean deleteEmployee(int empId); 
 	
 //	4. select - one
-	public Employee getEmployee(int empId); 
+	public Employee getEmployee(int empId) throws SQLException; 
 	
 //	5. select - all
 	public List<Employee> getAllEmployees(); 

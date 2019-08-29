@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+
+<employees> 
+	<employee salutation="Mr">
+	<title>
+		Validation the invoices from Vendors 
+	</title>
+	<thread>1000</thread> 
+		<name>
+			<first>Naveen</first>
+			<last>Srinivas</last>
+		</name>
+		<address>
+			<houseNo>101</houseNo>
+			<street>Stevens Creek Blvd </street>
+			<city>Cupertino</city>
+			<state>California</state>
+		</address>
+		<source-code>
+				<![CDATA[		
+			<html>
+				<head>
+				</head>
+				<body>
+					<p>Hi how are you today</p> 
+				</body>
+			</html>
+			]]>
+
+		</source-code>
+	</employee> 
+		<employee salutation="Ms">
+		<name>
+			<first>Kanchan</first>
+			<last>Naveen</last>
+		</name>
+		<address>
+			<houseNo>102</houseNo>
+			<street>Temple St</street>
+			<city>Bengaluru</city>
+			<state>Karnataka</state>
+		</address>
+		<source-code>
+				<![CDATA[		
+			
+					for(Employee temp : employeeDao.getAllEmployees()) {
+			System.out.println(temp);
+		}
+		employeeDao.deleteEmployee(101);
+		System.out.println("--------- After Delete ------------");
+		for(Employee temp : employeeDao.getAllEmployees()) {
+			System.out.println(temp);
+		}
+			
+			]]>
+
+		</source-code>
+	</employee> 
+
+</employees>

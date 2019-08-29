@@ -1,0 +1,27 @@
+1. practice - finally 
+2. TODO - ??? 
+	let trainer do - Delete Employee 
+
+3. XML	 Basic understanding of schema, Styling XML, CSS, XPath numeric functions , XPath's string functions , Axes: heading in other directions , Changing case with translate , XPath summary , Choosing among alternatives , 	Installing tools required for Automation	
+
+<html>
+	<head>
+	</head>
+	<body>
+		<p>Hi how are you today</p> 
+	</body>
+</html>
+
+
+
+Login 
+//*[@id="hf-header-v3"]/nav[1]/div/ul[1]/li[4]/a
+
+Product And Solutions 
+//*[@id="hf-header-v3"]/nav[2]/div[1]/div[2]/ul/li[1]/a/span
+
+
+//*[@id="content"]/div/div/div[4]/div/div/div[1]/div/div/div[2]/a
+
+
+

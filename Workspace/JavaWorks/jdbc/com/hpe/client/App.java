@@ -30,7 +30,11 @@ public class App {
 		for(Employee temp : employeeDao.getAllEmployees()) {
 			System.out.println(temp);
 		}
-		
+		employeeDao.deleteEmployee(101);
+		System.out.println("--------- After Delete ------------");
+		for(Employee temp : employeeDao.getAllEmployees()) {
+			System.out.println(temp);
+		}
 		
 	}
 }
