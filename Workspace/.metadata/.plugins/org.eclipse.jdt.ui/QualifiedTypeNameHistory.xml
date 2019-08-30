@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.hpe.day2.Car"/>
-<fullyQualifiedTypeName name="com.hpe.day2.Truck"/>
-<fullyQualifiedTypeName name="com.hpe.day2.Vehicle"/>
-<fullyQualifiedTypeName name="com.hpe.day4.IFigure"/>
-<fullyQualifiedTypeName name="com.hpe.day4.Circle"/>
 <fullyQualifiedTypeName name="com.hpe.day4.Square"/>
 <fullyQualifiedTypeName name="com.hpe.day4.Rectangle"/>
 <fullyQualifiedTypeName name="java.lang.Runtime"/>
-<fullyQualifiedTypeName name="com.hpe.day4.Employee"/>
 <fullyQualifiedTypeName name="com.hpe.day4.StaticEx01"/>
 <fullyQualifiedTypeName name="com.hpe.day5.BusinessLogic"/>
 <fullyQualifiedTypeName name="com.hpe.day5.BusinessLogic.InnerClass"/>
@@ -56,5 +50,14 @@
 <fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
 <fullyQualifiedTypeName name="com.hpe.questions.DeamonThreadEx"/>
 <fullyQualifiedTypeName name="com.hpe.questions.CounterThread"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="com.hpe.day4.Employee"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="com.hpe.standards.IEmployeeDAO"/>
+<fullyQualifiedTypeName name="com.hpe.dao.EmployeeDAO"/>
+<fullyQualifiedTypeName name="com.hpe.beans.Employee"/>
+<fullyQualifiedTypeName name="com.hpe.connection.GetConnection"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
 </qualifiedTypeNameHistroy>

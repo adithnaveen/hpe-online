@@ -1,9 +1,0 @@
-package com.hpe.day8;
-
-public class NameTooShortException extends Exception {
-	private String message; 
-	
-	public NameTooShortException() {
-		this.message =  "Name Too Short"
-	}
-}

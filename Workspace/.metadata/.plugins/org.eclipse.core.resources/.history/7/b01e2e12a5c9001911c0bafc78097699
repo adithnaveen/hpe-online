@@ -1,7 +1,0 @@
-package com.hpe.dao;
-
-import com.hpe.standards.IEmployeeDAO;
-
-public class EmployeeDAO  implements IEmployeeDAO{
-
-}

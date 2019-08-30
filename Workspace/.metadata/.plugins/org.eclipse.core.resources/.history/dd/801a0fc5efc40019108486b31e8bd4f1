@@ -1,9 +1,0 @@
-package com.hpe.day8;
-
-public class SalaryTooLowException extends Exception {
-	
-	public SalaryTooLowException() {
-		// TODO Auto-generated constructor stub
-	}
-	
-}

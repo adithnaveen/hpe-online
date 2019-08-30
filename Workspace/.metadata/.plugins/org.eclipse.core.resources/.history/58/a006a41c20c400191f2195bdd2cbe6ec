@@ -1,7 +1,0 @@
-package com.hpe.day7;
-
-public class SetEx01 {
-	public static void main(String[] args) {
-		
-	}
-}

@@ -117,3 +117,13 @@ Y
 )src/com/hpe/questions/DeamonThreadEx.java,8\4\84686b9593f4f98204d92b688d3065a63dfbb53a
 Y
 )src/com/hpe/questions/PolyCollection.java,f\5\f54250ecdd4894bbcf80f30051d81ac57859dcf6
+P
+ jdbc/com/hpe/beans/Employee.java,1\8\18b3061298e8b622dff45f547cea0a44942a87da
+Z
+*jdbc/com/hpe/connection/GetConnection.java,5\2\529593401227c6113391bc1cc3ce75f589eaed51
+X
+(jdbc/com/hpe/standards/IEmployeeDAO.java,4\f\4fde420e2ec810f2f9c726aed578b6fed208c84f
+Q
+!jdbc/com/hpe/dao/EmployeeDAO.java,d\0\d073ce0dbc68465e02152b643f812f07f57ed828
+L
+jdbc/com/hpe/client/App.java,0\3\034f6a62140f06f727422db2bf66af399b898b1b

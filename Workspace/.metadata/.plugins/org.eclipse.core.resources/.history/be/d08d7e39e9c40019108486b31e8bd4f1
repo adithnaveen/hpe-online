@@ -1,7 +1,0 @@
-package com.hpe.day8;
-
-public class ExceptionEx01 {
-	public static void main(String[] args) {
-		
-	}
-}
