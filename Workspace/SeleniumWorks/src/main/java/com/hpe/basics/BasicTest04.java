@@ -21,7 +21,6 @@ public class BasicTest04 {
 		driver = new ChromeDriver();
 
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-
 		driver.manage().window().maximize();
 
 		String url = "https://www.expedia.com/";

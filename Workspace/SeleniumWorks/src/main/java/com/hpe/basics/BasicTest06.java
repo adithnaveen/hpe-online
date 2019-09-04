@@ -7,7 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-// given the element extrct the attribute/s 
+// given the element extract the attribute/s 
 public class BasicTest06 {
 	public static void main(String[] args) {
 		

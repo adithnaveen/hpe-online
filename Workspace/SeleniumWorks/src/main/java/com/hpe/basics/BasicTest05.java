@@ -13,7 +13,7 @@ import org.openqa.selenium.support.ui.Select;
 import com.hpe.utility.Basics;
 
 // to get-set the multi select box 
-// to scorll the page with x pixel, and use java script executor for the same
+// to scroll the page with x pixel, and use java script executor for the same
 
 public class BasicTest05 {
 	public static void main(String[] args) {
