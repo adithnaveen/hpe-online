@@ -12,8 +12,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import com.hpe.utility.Basics;
 
 public class FirstTest {
-
-
 	private String URL1; 
 	private String URL2; 
 	

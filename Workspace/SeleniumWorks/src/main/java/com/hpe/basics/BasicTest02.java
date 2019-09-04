@@ -6,6 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import com.hpe.utility.Basics;
 
+// selenium test to validate the user on elearning website 
 public class BasicTest02 {
 	public static void main(String[] args) {
 		String URL = "http://elearning.ohbreaks.com/"; 

@@ -1,9 +1,0 @@
-package com.hpe.day10;
-
-public class StoreAndGetObject {
-
-	
-	public static void main(String[] args) {
-		
-	}
-}

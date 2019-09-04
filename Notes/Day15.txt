@@ -1,0 +1,73 @@
+Selenium Automation	Identifying Web-Elements using id, name, linkname, class, xpath, tagname 		Handling Input box/buttons, list/selection/drop down boxes, radio buttons, check boxes	
+
+
+
+
+Exception in thread "main" org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="button" data-control="menu" data-auto-pos="true" class="trigger-utility menu-trigger btn-utility btn-secondary dropdown-toggle theme-standard pin-left menu-arrow gcw-component gcw-traveler-amount-select gcw-component-initialized" data-gcw-component="gcw-traveler-amount-select" aria-expanded="false" data-gcw-single-room="true">...</button> is not clickable at point (626, 476). Other element would receive the click: <div class="multiLineDisplay" style="text-overflow:ellipsis; overflow:hidden">...</div>
+  (Session info: chrome=76.0.3809.132)
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   -> xpath 
+  //*[@id="post-291"]/div/div[2]/select
+  
+  
+  
+  
+  
+  
+id 
+xpath 
+
+  
+  
+  
+<li class="leaf">
+	<a href="shipping.html"><span>Shipping</span></a>
+</li>
+  
+  
+  
+  
+  
+<html>
+	<body>
+		<p>hi how are you </p> - xpath - /html/body/p[0]
+		<p>hi how are you </p> - xpath - /html/body/p[1]
+	</body>
+</html>
+  
+  
+  
+  
+  //*[@id="form-1567526305777"]/div[2]/div[2]/div/button
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

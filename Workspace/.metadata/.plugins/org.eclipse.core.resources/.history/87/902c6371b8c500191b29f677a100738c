@@ -1,7 +1,0 @@
-package com.hpe.day9;
-
-public class ThreadEx02 {
-	public static void main(String[] args) {
-		
-	}
-}

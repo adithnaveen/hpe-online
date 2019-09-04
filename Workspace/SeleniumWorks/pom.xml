@@ -7,7 +7,9 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<dependencies>
-		<!-- mvnrepository to get selenium -->
+		<!-- mvnrepository to get selenium
+			seleniumhq.org
+		 -->
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-java</artifactId>
